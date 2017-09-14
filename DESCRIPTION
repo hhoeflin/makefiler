@@ -9,3 +9,5 @@ Encoding: UTF-8
 LazyData: true
 Suggests: testthat,
     covr
+URL: https://github.com/hhoeflin/makefiler
+BugReports: https://github.com/hhoeflin/makefiler/issues
