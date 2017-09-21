@@ -1,9 +1,12 @@
 Package: makefiler
-Title: What the Package Does (one line, title case)
+Title: Create a makefile for R analyses
 Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
+Authors@R: person("Holger", "Hoefling", email = "hhoeflin@gmail.com", role = c("aut", "cre"))
 Description: What the package does (one paragraph).
 Depends: R (>= 3.4.1)
+Imports: R6,
+	 DiagrammeR,
+	 dplyr
 License: GPL-3 + file LICENSE
 Encoding: UTF-8
 LazyData: true
