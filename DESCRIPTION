@@ -14,3 +14,4 @@ Suggests: testthat,
     covr
 URL: https://github.com/hhoeflin/makefiler
 BugReports: https://github.com/hhoeflin/makefiler/issues
+RoxygenNote: 6.0.1.9000

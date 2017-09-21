@@ -1,4 +1,9 @@
 
+
+##' Class for defining a rule
+##'
+##' Defines a rule for use in a makefile
+##' @export 
 Rule <- R6::R6Class("Rule",
                     public=list(
                         initialize=function(targets, phony=NULL, target_types=NULL,  prereqs, prereq_types=NULL, recipe) {
